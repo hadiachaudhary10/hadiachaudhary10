@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **swift & swiftUI**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abdullah-ihsan-187aa819b/) | [Email](mailto:abdullah.ihsan3@gmail.com).
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/abdullah-ihsan-187aa819b/) | [Email](mailto:chaudharyhadia10@gmail.com).
 
 <h3 align="left">Tools & Technologies:</h3>
 <p align="left">
