@@ -5,7 +5,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chaudharyhadia10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadiachaudhary10)
-[![Profile Views](https://komarev.com/ghpvc/?username=hadiachaudhary10)](https://github.com/hadiachaudhary10)
 
 ## About Me
 Experienced iOS developer with 4+ years of expertise in building high-performance, user-friendly mobile apps. Skilled in Swift and Objective-C, with a strong focus on clean architecture, smooth UI/UX, and app performance. Passionate about creating scalable and reliable iOS solutions.
